@@ -9,9 +9,6 @@
 ---
 
 ## 📸 Demo
-
-## 📸 Demo
-
 ### 📷 Capture
 <p align="center">
   <img src="https://github.com/zang7777/Howdy-setup/blob/main/demo/capture.jpeg" width="700"/>
