@@ -10,11 +10,26 @@
 
 ## 📸 Demo
 
-📁 **Available in folder:** `demo/`
-- WhatsApp Image 2026-03-17 at 6.16.42 PM.jpeg
-- WhatsApp Video 2026-03-17 at 6.16.40 PM.mp4
-- WhatsApp Video 2026-03-17 at 6.16.44 PM.mp4
+## 📸 Demo
 
+### 📷 Capture
+<p align="center">
+  <img src="https://github.com/zang7777/Howdy-setup/blob/main/demo/capture.jpeg" width="700"/>
+</p>
+
+---
+
+### ⚙️ 🚀Processing / Output
+<p align="center">
+  <img src="https://github.com/zang7777/Howdy-setup/blob/main/demo/output.gif" width="700"/>
+</p>
+
+---
+
+### ⚙️ setup
+<p align="center">
+  <img src="https://github.com/zang7777/Howdy-setup/blob/main/demo/working.gif" width="700"/>
+</p>
 ---
 
 ## 🧠 What Is This?
